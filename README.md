@@ -1,4 +1,4 @@
-# Qualcomm-Reference-Design-sc8180x
+# Qualcomm Snapdragon 8CX Compute Reference Design
 
 <img src="https://github.com/daviiid99/Qualcomm-Reference-Design-sc8180x/blob/main/Laptop.jpg">
 ARM Laptop made by Qualcomm
