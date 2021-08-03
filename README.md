@@ -10,4 +10,4 @@ ARM Laptop made by Qualcomm
 
 
 # Extras
-<a href="https://github.com/daviiid99/Qualcomm-Snapdragon-8CX-Compute-Reference-Design/blob/main/Laptop.jpg">Custom 8cx Sticker for Hikaribook</a>  
+<a href="https://github.com/daviiid99/Qualcomm-Snapdragon-8CX-Compute-Reference-Design/blob/main/logo.png">Custom 8cx Sticker for Hikaribook</a>  
